@@ -156,7 +156,7 @@ border-style: solid; */
 }
 
 .portrait {
-  background-image: url("img/portrait.JPG");
+  background-image: url("img/portrait.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -200,7 +200,7 @@ border-style: solid; */
 }
 
 .square-art {
-  background-image: url("img/illustration/existential_butterfly.JPG");
+  background-image: url("img/illustration/existential_butterfly.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -248,7 +248,7 @@ border-style: solid; */
 }
 
 .portrait-art {
-  background-image: url("img/jessie.JPG");
+  background-image: url("img/jessie.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -302,7 +302,7 @@ border-style: solid; */
 }
 
 .landscape-art {
-  background-image: url("img/photography/out_of_touch.JPG");
+  background-image: url("img/photography/out_of_touch.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -377,7 +377,7 @@ border-style: solid; */
 }
 
 .main-art {
-  background-image: url("img/illustration/existential_butterfly.JPG");
+  background-image: url("img/illustration/existential_butterfly.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -388,7 +388,7 @@ border-style: solid; */
 }
 
 .grid-art {
-  background-image: url("img/abc.JPG");
+  background-image: url("img/abc.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -396,7 +396,7 @@ border-style: solid; */
 }
 
 .grid2-art {
-  background-image: url("img/img.JPG");
+  background-image: url("img/img.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -601,7 +601,7 @@ button:hover {
 /* IMAGES -------------------------------------------------------------*/
 /* Index -------------------------------------------------------------*/
 .grid-art-1 {
-  background-image: url("img/photography/out_of_touch.JPG");
+  background-image: url("img/photography/out_of_touch.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -609,35 +609,35 @@ button:hover {
 }
 
 .grid-art-2 {
-  background-image: url("img/jewellery/expressive_heart.JPG");
+  background-image: url("img/jewellery/expressive_heart.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 50vh;
 }
 .grid-art-3 {
-  background-image: url("img/technology/paper_plane_poetry.JPG");
+  background-image: url("img/technology/paper_plane_poetry.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 50vh;
 }
 .grid-art-4 {
-  background-image: url("img/illustration/what_am_i_doing_bug.JPG");
+  background-image: url("img/illustration/what_am_i_doing_bug.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 50vh;
 }
 .grid-art-5 {
-  background-image: url("img/painting/overthinking.JPG");
+  background-image: url("img/painting/overthinking.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 50vh;
 }
 .grid-art-6 {
-  background-image: url("img/illustration/how_do_i_survive_moth.JPG");
+  background-image: url("img/illustration/how_do_i_survive_moth.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -646,7 +646,7 @@ button:hover {
 
 /* Portfolio -------------------------------------------------------------*/
 .grid2-art-1 {
-  background-image: url("img/painting/overthinking.JPG");
+  background-image: url("img/painting/overthinking.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -654,7 +654,7 @@ button:hover {
   display: block;
 }
 .grid2-art-2 {
-  background-image: url("img/technology/paper_plane_poetry.JPG");
+  background-image: url("img/technology/paper_plane_poetry.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -662,7 +662,7 @@ button:hover {
   display: block;
 }
 .grid2-art-3 {
-  background-image: url("img/illustration/what_am_i_doing_bug.JPG");
+  background-image: url("img/illustration/what_am_i_doing_bug.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -670,7 +670,7 @@ button:hover {
   display: block;
 }
 .grid2-art-4 {
-  background-image: url("img/photography/out_of_touch.JPG");
+  background-image: url("img/photography/out_of_touch.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -678,7 +678,7 @@ button:hover {
   display: block;
 }
 .grid2-art-5 {
-  background-image: url("img/jewellery/expressive_heart.JPG");
+  background-image: url("img/jewellery/expressive_heart.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -686,7 +686,7 @@ button:hover {
   display: block;
 }
 .grid2-art-6 {
-  background-image: url("img/illustration/how_do_i_survive_moth.JPG");
+  background-image: url("img/illustration/how_do_i_survive_moth.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -694,7 +694,7 @@ button:hover {
   display: block;
 }
 .grid2-art-7 {
-  background-image: url("img/illustration/existential_butterfly.JPG");
+  background-image: url("img/illustration/existential_butterfly.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -705,7 +705,7 @@ button:hover {
 /* Individual Art Pages  -------------------------------------------------------------*/
 
 .expressive_heart-art {
-  background-image: url("img/jewellery/expressive_heart.JPG");
+  background-image: url("img/jewellery/expressive_heart.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -716,7 +716,7 @@ button:hover {
 }
 
 .overthinking-art {
-  background-image: url("img/painting/overthinking.JPG");
+  background-image: url("img/painting/overthinking.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -727,7 +727,7 @@ button:hover {
 }
 
 .existential_butterfly-art {
-  background-image: url("img/illustration/existential_butterfly.JPG");
+  background-image: url("img/illustration/existential_butterfly.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -738,7 +738,7 @@ button:hover {
 }
 
 .what_am_i_doing_bug-art {
-  background-image: url("img/illustration/what_am_i_doing_bug.JPG");
+  background-image: url("img/illustration/what_am_i_doing_bug.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -749,7 +749,7 @@ button:hover {
 }
 
 .how_do_i_survive_moth-art {
-  background-image: url("img/illustration/how_do_i_survive_moth.JPG");
+  background-image: url("img/illustration/how_do_i_survive_moth.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -760,7 +760,7 @@ button:hover {
 }
 
 .out_of_touch-art {
-  background-image: url("img/photography/out_of_touch.JPG");
+  background-image: url("img/photography/out_of_touch.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -778,25 +778,15 @@ button:hover {
 }
 
 .paper_plane_poetry-1-art {
-  background-image: url("img/technology/paper_plane_poetry_text.JPG");
+  background-image: url("img/technology/paper_plane_poetry_text.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  /* min-height: 60vh;
-  min-width: 60vh; */
-   /* width: 100%; */
    min-height: 48vh;
-
-  /* padding-top: 100%; /* 1:1 Aspect Ratio  */
-  /* padding-top: 75%; /* 4:3 Aspect Ratio (divide 3 by 4 = 0.75) */
-  /* padding-top: 133%; */
-
-  /* margin-left: 20%;
-  margin-right: 20%; */
 }
 
 .paper_plane_poetry-2-art {
-  background-image: url("img/technology/paper_plane_poetry.JPG");
+  background-image: url("img/technology/paper_plane_poetry.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
